@@ -1,2 +1,3 @@
-# Anadolubank-vscode-extension-pack
-VScode Extension pack for DEVs at Anadolubank
+# README
+
+## Anadolubank Yazılım Geliştirme ekibi için eklenti paketi.
